@@ -1,0 +1,6 @@
+E=a,b,c
+S-aA|bB
+A-cA|cD
+B-aC
+C-bA
+D-bD|cD|€
