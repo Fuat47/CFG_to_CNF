@@ -16,10 +16,15 @@ The project is written in Java programming language and includes the main class 
 For example, a `CFG.txt` file might look like this:
 
 E=a,b,c
+
 S-aA|bB
+
 A-cA|cD
+
 B-aC
+
 C-bA
+
 D-bD|cD|€
 
 ## Notes
